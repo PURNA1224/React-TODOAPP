@@ -1,0 +1,20 @@
+.listComponent {
+  width: 500px;
+  background-color: white;
+  border-radius: 5px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  margin-top: 50px;
+}
+
+.divEmpty {
+  display: none;
+}
+
+.divShow {
+  color: rgba(0, 0, 0, 0.487);
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+}

@@ -1,0 +1,33 @@
+.formStyle {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+.modernInput {
+  display: block;
+  width: 100%;
+  border: none;
+  font-size: 17px;
+}
+.modernInput:focus {
+  outline: 0;
+}
+.inputContainer {
+  display: flex;
+}
+.modernButton {
+  display: inline-block;
+  background-color: #f7ca18;
+  border: none;
+  padding: 12px 20px;
+  color: white;
+  box-shadow: 0px 4px 0px rgb(169, 152, 1);
+}
+.modernButton:active {
+  transform: translateY(4px);
+  box-shadow: none;
+}
